@@ -41,7 +41,6 @@
     "visibility": 2,
     "ugliness": 4,
     "description": "You have grown an extra thumb which you can control rather effectively, it doesn't do much except for making it harder to get a fitting pair of gloves and occasionally helping with crafting.",
-    "types": [ "HANDS" ],
     "category": [ "MOLE" ],
 	"craft_skill_bonus": [ [ "electronics", 1 ], [ "tailor", 1 ], [ "mechanics", 1 ] ],
     "restricts_gear": [ "hand_l", "hand_r" ],
@@ -106,5 +105,5 @@
     "id": "INCISORS",
     "copy-from": "INCISORS",
     "extend":{"threshreq": ["THRESH_MOLE"], "category": ["MOLE"]}
-  }  
+  }
 ]
